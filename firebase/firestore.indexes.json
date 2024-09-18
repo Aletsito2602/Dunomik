@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "challenges_orders",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "email_buyer",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "time_order",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

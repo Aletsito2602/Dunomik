@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517007596096",
+    "firebase_url": "https://dunomic-c1930-default-rtdb.firebaseio.com",
+    "project_id": "dunomic-c1930",
+    "storage_bucket": "dunomic-c1930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517007596096:android:1ae14c1edbf43721791da5",
+        "android_client_info": {
+          "package_name": "com.mycompany.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517007596096-98jm664m3rr2bc1percqee287fkj07he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04FWTIPUIYHbD_Ht-0jcS9tdlXyZSvSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517007596096-98jm664m3rr2bc1percqee287fkj07he.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517007596096-emnqkbso09c1b6fhh9jl5dcok7t2lmc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
